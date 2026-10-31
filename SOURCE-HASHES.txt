@@ -1,0 +1,4 @@
+히노토리 기준 원본 — 본편과 업데이트 1.0.1
+
+f455d0e12bf064c754055c2912365c940259dda8ac7c5b395b3750d384692c50  Tetsudou Nippon! Real Pro Choukyori Unten! Tokkyuu Hinotori Kinki Nippon Tetsudou Hen  [010081F02464E800][v65536][1.0.1][UPD].nsp
+4862acf096547c558d6cb7a35f62ff49c2ba59a014aabc9155b6b2bafe3e4aaa  Tetsudou Nippon! Real Pro Choukyori Unten! Tokkyuu Hinotori Kinki Nippon Tetsudou Hen [010081F02464E000][v0][Base][XCI].xci

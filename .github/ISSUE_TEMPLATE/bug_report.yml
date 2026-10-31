@@ -1,0 +1,28 @@
+name: 오류 제보
+description: 설치 또는 한국어 표시 문제를 알려 주세요.
+title: "[오류] "
+body:
+  - type: markdown
+    attributes:
+      value: "히노토리 업데이트 1.0.1 기준입니다. 게임 원본·키·계정 정보는 첨부하지 마세요."
+  - type: input
+    id: version
+    attributes:
+      label: 패치와 게임 업데이트 버전
+      placeholder: "v1.0.0 / 1.0.1"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 실행 환경
+      description: 에뮬레이터 또는 기기, OS 버전을 적어 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 재현 방법과 실제 결과
+      description: 메뉴·노선·역 이름, 조작 순서와 필요한 화면을 남겨 주세요.
+    validations:
+      required: true
