@@ -9,7 +9,7 @@ body:
     id: version
     attributes:
       label: 패치와 게임 업데이트 버전
-      placeholder: "v1.0.1 / 1.0.1"
+      placeholder: "v1.0.2 / 1.0.1"
     validations:
       required: true
   - type: input
